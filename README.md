@@ -49,7 +49,9 @@ Here are some ideas to get you started:
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-<h3>Some open source projects I contribute to</h3>
+
+### Some open source projects I contribute to
+
 <table>
   <thead align="center">
     <tr border: none;>
@@ -68,3 +70,11 @@ Here are some ideas to get you started:
     </tr>
   </tbody>
 </table>
+
+### Where to find me
+
+<p><a href="https://github.com/JessNah" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+<!-- <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> -->
+<a href="https://www.linkedin.com/in/jessicanahulan" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<!-- <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> -->
+</p>
