@@ -23,14 +23,15 @@ Here are some ideas to get you started:
 <p>Welcome to my page! </br> I'm a software engineer working in <b>Toronto, Canada</b> <img src="Assets/Images/canada.png" width="16" style="max-width: 100%;margin-bottom: -2px;"/> </p>
 I'm incredibly passionate and driven when it comes to coding and working on projects, and am at my best when working in a full-stack capacity and getting familiar with every inch of the projects I work with. Being a tech enthusiast & a developer advocate, I am always open to collaborating on projects and innovative/disruptive ideas.
 I've always been an open-source enthusiast and am starting to learn a lot from the open-source community, I truly believe when it comes to open source there is no boundaries on how much we can learn and the amount of resources, mentors, and experts we have at our fingertips - all ready to help.
-Ok ok, something not coding related? I really really love digital art :) 
 
 #### Let's connect
 
 <p><a href="https://github.com/JessNah" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 <!-- <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> -->
 <a href="https://www.linkedin.com/in/jessicanahulan" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="http://jessnah.github.io" target="_blank"><img alt="MyWebsite" src="https://img.shields.io/badge/my_website-%2312100E.svg?&style=for-the-badge&logo=GitHubSponsors&logoColor=white&color=833AB4" /></a>
 <!-- <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> -->
+
 </p>
 
 <h3>Things I code with</h3>
@@ -83,3 +84,7 @@ Ok ok, something not coding related? I really really love digital art :)
   </tbody>
 </table>
 
+### A little of something else?
+
+Something not coding related - I really enjoy digital art :) Take a look at my portfolio if you like.
+<a href="https://www.instagram.com/jessx.art" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=C13584" /></a>
