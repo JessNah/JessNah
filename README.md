@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!-- "https://emojis.slackmojis.com/emojis/images/1471045852/842/hi.gif?1471045852" -->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm Jessica.
 
-<p>Welcome to my page! </br> I'm a software engineer working in <b>Toronto, Canada</b> <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> </p>
+<p>Welcome to my page! </br> I'm a software engineer working in <b>Toronto, Canada</b> <img src="Assets/Images/canada.png" width="13"/> </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
