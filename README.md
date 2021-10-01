@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm Jessica.
 
 <p>Welcome to my page! </br> I'm a software engineer working in <b>Toronto, Canada</b> <img src="Assets/Images/canada.png" width="16" style="max-width: 100%;margin-bottom: -2px;"/> </p>
-I'm incredibly passionate and driven when it comes to coding and working on projects, I love working in a full-stack capacity and getting familiar with every inch of projects I work with. I am a tech enthusiast & a developer advocate. I am always open to collaborating on projects and innovative/disruptive ideas.
-I am also an open-source enthusiast and am starting to learn a lot from the open-source community, I truly believe when it comes to open source there is no boundaries on how much we can learn and the amount of resources, mentors, and experts we have at our fingertips - all ready to help. The only boundary is time.
+I'm incredibly passionate and driven when it comes to coding and working on projects, and am at my best when working in a full-stack capacity and getting familiar with every inch of the projects I work with. Being a tech enthusiast & a developer advocate, I am always open to collaborating on projects and innovative/disruptive ideas.
+I've always been an open-source enthusiast and am starting to learn a lot from the open-source community, I truly believe when it comes to open source there is no boundaries on how much we can learn and the amount of resources, mentors, and experts we have at our fingertips - all ready to help. The only boundary is time.
 
 <h3>Things I code with</h3>
 <p>
