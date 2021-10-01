@@ -87,4 +87,5 @@ I've always been an open-source enthusiast and am starting to learn a lot from t
 ### A little of something else?
 
 Something not coding related - I really enjoy digital art :) Take a look at my portfolio if you like.
+
 <a href="https://www.instagram.com/jessx.art" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=C13584" /></a>
