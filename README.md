@@ -26,12 +26,18 @@ I've always been an open-source enthusiast and am starting to learn a lot from t
 
 #### Let's connect
 
-<p><a href="https://github.com/JessNah" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+<p>
+<a href="https://github.com/JessNah" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 <!-- <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> -->
 <a href="https://www.linkedin.com/in/jessicanahulan" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="http://jessnah.github.io" target="_blank"><img alt="MyWebsite" src="https://img.shields.io/badge/my_website-%2312100E.svg?&style=for-the-badge&logo=GitHubSponsors&logoColor=white&color=833AB4" /></a>
 <!-- <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> -->
 
+#### A little of something else?
+
+Something not coding related - I really enjoy digital art :) Take a look at my portfolio if you like.
+
+<a href="https://www.instagram.com/jessx.art" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=C13584" /></a>
 </p>
 
 <h3>Things I code with</h3>
@@ -84,8 +90,3 @@ I've always been an open-source enthusiast and am starting to learn a lot from t
   </tbody>
 </table>
 
-### A little of something else?
-
-Something not coding related - I really enjoy digital art :) Take a look at my portfolio if you like.
-
-<a href="https://www.instagram.com/jessx.art" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=C13584" /></a>
