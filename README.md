@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 <!-- "https://emojis.slackmojis.com/emojis/images/1471045852/842/hi.gif?1471045852" -->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm Jessica.
 
-<p>Welcome to my page! </br> I'm a software engineer working in <b>Toronto, Canada</b> <img src="Assets/Images/canada.png" width="16" style="max-width: 100%;margin-bottom: -2px;"/> </p>
-I'm incredibly passionate and driven when it comes to coding and working on projects, and am at my best when working in a full-stack capacity and getting familiar with every inch of the projects I work with. Being a tech enthusiast & a developer advocate, I am always open to collaborating on projects and innovative/disruptive ideas.
-I've always been an open-source enthusiast and am starting to learn a lot from the open-source community, I truly believe when it comes to open source there is no boundaries on how much we can learn and the amount of resources, mentors, and experts we have at our fingertips - all ready to help.
+<p>Welcome to my page! </br> I'm a software engineer working in <b>Toronto, Canada</b> <img src="Assets/Images/canada.png" width="16" style="max-width: 100%;margin-bottom: -2px;"/> at <img src="Assets/Images/ibm.png" width="16" style="max-width: 100%;margin-bottom: -2px;"/> where I spend most of my time working on Business Automation Software in the Hybrid Cloud unit. </p>
+I'm incredibly passionate and driven when it comes to coding and working on projects in a full-stack capacity. Being a tech enthusiast & a developer advocate, I am always open to collaborating on projects and innovative/disruptive ideas.
+I've always been an open-source enthusiast and am fond of the open-source community, there's just something about the amount of resources, mentors, and experts we have at our fingertips.
 
 #### Let's connect
-<!--
+
 <p>
 <a href="https://github.com/JessNah" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white&color=833AB4" /></a> 
 <!-- <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> -->
@@ -39,7 +39,7 @@ Something not coding related - I really enjoy digital art :) Take a look at my p
 
 <a href="https://www.instagram.com/jessx.art" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=C13584" /></a>
 </p>
--->
+
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
