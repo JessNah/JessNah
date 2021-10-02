@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!-- "https://emojis.slackmojis.com/emojis/images/1471045852/842/hi.gif?1471045852" -->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm Jessica.
 
-<p>Welcome to my page! </br> I'm a software engineer working in <b>Toronto, Canada</b> <img src="Assets/Images/canada.png" width="16" style="max-width: 100%;margin-bottom: -2px;"/> at <img src="/JessNah/JessNah/raw/main/Assets/Images/ibm.png" width="40" style="margin-bottom:-12px"> where I spend most of my time working on Business Automation Software in the Hybrid Cloud unit. </p>
+<p>Welcome to my page! </br> I'm a software engineer working in <b>Toronto, Canada</b> <img src="Assets/Images/canada.png" width="16" style="max-width: 100%;margin-bottom: -2px;"/> at <img src="Assets/Images/ibm.png" width="40" style="margin-bottom:-12px"> where I spend most of my time working on Business Automation Software in the Hybrid Cloud unit. </p>
 I'm incredibly passionate and driven when it comes to coding and working on projects in a full-stack capacity. Being a tech enthusiast & a developer advocate, I am always open to collaborating on projects and innovative/disruptive ideas.
 I've always been an open-source enthusiast and am fond of the open-source community, there's just something about the amount of resources, mentors, and experts we have at our fingertips.
 
