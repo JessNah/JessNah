@@ -69,8 +69,6 @@ Something not coding related - I really enjoy digital art :) Take a look at my p
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-<!--
-
 ### Some open source projects I contribute to
 
 <table>
@@ -92,4 +90,3 @@ Something not coding related - I really enjoy digital art :) Take a look at my p
   </tbody>
 </table>
 
--->
