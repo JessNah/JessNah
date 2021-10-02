@@ -25,7 +25,7 @@ I'm incredibly passionate and driven when it comes to coding and working on proj
 I've always been an open-source enthusiast and am starting to learn a lot from the open-source community, I truly believe when it comes to open source there is no boundaries on how much we can learn and the amount of resources, mentors, and experts we have at our fingertips - all ready to help.
 
 #### Let's connect
-
+<!--
 <p>
 <a href="https://github.com/JessNah" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white&color=833AB4" /></a> 
 <!-- <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> -->
@@ -39,7 +39,7 @@ Something not coding related - I really enjoy digital art :) Take a look at my p
 
 <a href="https://www.instagram.com/jessx.art" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=C13584" /></a>
 </p>
-
+-->
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -69,6 +69,8 @@ Something not coding related - I really enjoy digital art :) Take a look at my p
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
+<!--
+
 ### Some open source projects I contribute to
 
 <table>
@@ -90,3 +92,4 @@ Something not coding related - I really enjoy digital art :) Take a look at my p
   </tbody>
 </table>
 
+-->
