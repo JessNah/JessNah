@@ -61,7 +61,7 @@ Something not coding related - I really enjoy digital art :) Take a look at my p
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML/CSS/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="MySql" src="https://img.shields.io/badge/-MySQL-FB542B?style=flat-square&logo=MySQL&logoColor=white" />
+  <img alt="Unity" src="https://img.shields.io/badge/NodeJS-informational?style=flat-square&logo=npm&logoColor=white&color=FB542B" />
   <img alt="Jest" src="https://img.shields.io/badge/-Jest-EC4A3F?style=flat-square&logo=Jest&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-F9A03C?style=flat-square&logo=php&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
@@ -69,7 +69,7 @@ Something not coding related - I really enjoy digital art :) Take a look at my p
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Unity" src="https://img.shields.io/badge/Unity-%2312100E.svg?&style=flat-square&logo=Unity&logoColor=white&color=0dba89" />
   <img alt="Unity" src="https://img.shields.io/badge/JavaScript-informational?style=flat-square&logo=JavaScript&logoColor=white&color=45b8d8" />
-  <img alt="Unity" src="https://img.shields.io/badge/NodeJS-informational?style=flat-square&logo=npm&logoColor=white&color=8DD6F9" />
+  <img alt="MySql" src="https://img.shields.io/badge/-MySQL-8DD6F9?style=flat-square&logo=MySQL&logoColor=white" />
   <img alt="Unity" src="https://img.shields.io/badge/HTML/CSS/HTML5-informational?style=flat-square&logo=html5&logoColor=white&color=46a2f1" />	
   <img alt="Unity" src="https://img.shields.io/badge/TensorFlow-informational?style=flat-square&logo=tensorflow&logoColor=white&color=46a2f1" />
   <img alt="Unity" src="https://img.shields.io/badge/IBM_Cloud-informational?style=flat-square&logo=IBM&logoColor=white&color=054ADA" />
