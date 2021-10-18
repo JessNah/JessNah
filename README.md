@@ -61,7 +61,6 @@ Something not coding related - I really enjoy digital art :) Take a look at my p
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML/CSS/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Unity" src="https://img.shields.io/badge/NodeJS-informational?style=flat-square&logo=npm&logoColor=white&color=FB542B" />
   <img alt="Jest" src="https://img.shields.io/badge/-Jest-EC4A3F?style=flat-square&logo=Jest&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-F9A03C?style=flat-square&logo=php&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
