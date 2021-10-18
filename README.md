@@ -67,15 +67,15 @@ Something not coding related - I really enjoy digital art :) Take a look at my p
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Unity" src="https://img.shields.io/badge/Unity-%2312100E.svg?&style=flat-square&logo=Unity&logoColor=white&color=0dba89" />
-  <img alt="Unity" src="https://img.shields.io/badge/JavaScript-informational?style=flat-square&logo=JavaScript&logoColor=white&color=45b8d8" />
-  <img alt="MySql" src="https://img.shields.io/badge/-MySQL-8DD6F9?style=flat-square&logo=MySQL&logoColor=white" />
-  <img alt="Unity" src="https://img.shields.io/badge/HTML/CSS/HTML5-informational?style=flat-square&logo=html5&logoColor=white&color=46a2f1" />	
-  <img alt="Unity" src="https://img.shields.io/badge/TensorFlow-informational?style=flat-square&logo=tensorflow&logoColor=white&color=46a2f1" />
+  <img alt="Unity" src="https://img.shields.io/badge/JavaScript-informational?style=flat-square&logo=JavaScript&logoColor=white&color=4ad4d4" />
+  <img alt="MySql" src="https://img.shields.io/badge/-MySQL-4aadd4?style=flat-square&logo=MySQL&logoColor=white" />
+  <img alt="Unity" src="https://img.shields.io/badge/HTML/CSS/HTML5-informational?style=flat-square&logo=html5&logoColor=white&color=4a83d4" />	
+  <img alt="Unity" src="https://img.shields.io/badge/TensorFlow-informational?style=flat-square&logo=tensorflow&logoColor=white&color=4a58d4" />
   <img alt="Unity" src="https://img.shields.io/badge/IBM_Cloud-informational?style=flat-square&logo=IBM&logoColor=white&color=054ADA" />
   <img alt="Unity" src="https://img.shields.io/badge/IBM_Watson-informational?style=flat-square&logo=IBM-Watson&logoColor=white&color=BE95FF" />
-  <img alt="Unity" src="https://img.shields.io/badge/pandas-informational?style=flat-square&logo=pandas&logoColor=white&color=B7178C" />
-  <img alt="Unity" src="https://img.shields.io/badge/Android_Studio-informational?style=flat-square&logo=Android-Studio&logoColor=white&color=E10098" />
-  <img alt="Unity" src="https://img.shields.io/badge/Bash_Scripting-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=CC6699" />
+  <img alt="Unity" src="https://img.shields.io/badge/pandas-informational?style=flat-square&logo=pandas&logoColor=white&color=f395ff" />
+  <img alt="Unity" src="https://img.shields.io/badge/Android_Studio-informational?style=flat-square&logo=Android-Studio&logoColor=white&color=de57be" />
+  <img alt="Unity" src="https://img.shields.io/badge/Bash_Scripting-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=e63576" />
 </p>
 
 ### Some open source projects I contribute to
