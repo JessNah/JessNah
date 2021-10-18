@@ -68,9 +68,9 @@ Something not coding related - I really enjoy digital art :) Take a look at my p
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Unity" src="https://img.shields.io/badge/Unity-%2312100E.svg?&style=flat-square&logo=Unity&logoColor=white&color=0dba89" />
-  <img alt="Unity" src="https://img.shields.io/badge/JavaScript-informational?style=flat-square&logo=JavaScript&logoColor=white&color=F7DF1E9" />
-  <img alt="Unity" src="https://img.shields.io/badge/NodeJS-informational?style=flat-square&logo=npm&logoColor=white&color=339933" />
-  <img alt="Unity" src="https://img.shields.io/badge/HTML/CSS/HTML5-informational?style=flat-square&logo=html5&logoColor=white&color=E34F26" />
+  <img alt="Unity" src="https://img.shields.io/badge/JavaScript-informational?style=flat-square&logo=JavaScript&logoColor=white&color=45b8d8" />
+  <img alt="Unity" src="https://img.shields.io/badge/NodeJS-informational?style=flat-square&logo=npm&logoColor=white&color=8DD6F9" />
+  <img alt="Unity" src="https://img.shields.io/badge/HTML/CSS/HTML5-informational?style=flat-square&logo=html5&logoColor=white&color=46a2f1" />
   <img alt="Unity" src="https://img.shields.io/badge/IBM_Cloud-informational?style=flat-square&logo=IBM&logoColor=white&color=054ADA" />
   <img alt="Unity" src="https://img.shields.io/badge/IBM_Watson-informational?style=flat-square&logo=IBM-Watson&logoColor=white&color=BE95FF" />
   <img alt="Unity" src="https://img.shields.io/badge/TensorFlow-informational?style=flat-square&logo=tensorflow&logoColor=white&color=FF6F00" />
