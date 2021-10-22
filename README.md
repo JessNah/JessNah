@@ -21,8 +21,9 @@ Here are some ideas to get you started:
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm Jessica.
 
 <p>Welcome to my page! </br> I'm a software engineer working in <b>Toronto, Canada</b> <img src="Assets/Images/canada.svg" width="16" style="max-width: 100%;margin-bottom: -2px;"/> at <img src="Assets/Images/ibm.svg" width="40" style="margin-bottom:-12px"> where I spend most of my time working on Business Automation Software in the Hybrid Cloud unit. </p>
+<!--
 I'm incredibly passionate and driven when it comes to coding and working on projects in a full-stack capacity. Being a tech enthusiast & a developer advocate, I am always open to collaborating on projects and innovative/disruptive ideas. So please feel free to reach out to me for anything at all!
-What I've been upto lately? It's been a thrilling journey starting to contribute to and be part of the open-source community.
+What I've been upto lately? It's been a thrilling journey starting to contribute to and be part of the open-source community. -->
 
 #### Let's connect
 
