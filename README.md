@@ -101,6 +101,10 @@ Something not coding related - I really enjoy digital art :) Take a look at my p
       <td><a href="https://github.com/nodejs/nodejs.dev"><b>nodejs/nodejs.dev</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/nodejs/nodejs.dev?style=flat-square&labelColor=343b41"/></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/Call-for-Code-for-Racial-Justice/Truth-Loop"><b>Call-for-Code-for-Racial-Justice/Truth-Loop</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Call-for-Code-for-Racial-Justice/Truth-Loop?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
 
