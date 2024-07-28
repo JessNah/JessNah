@@ -94,6 +94,10 @@ Something not coding related - I really enjoy digital art :) Take a look at my p
       <td><img alt="Stars" src="https://img.shields.io/github/stars/pkgjs/parseargs?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
+      <td><a href="https://github.com/ratson/react-intl-redux"><b>react-intl-redux</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/ratson/react-intl-redux?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/carbon-design-system/ibm-cloud-cognitive"><b>Carbon-design-system/ibm-cloud-cognitive</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/carbon-design-system/ibm-cloud-cognitive?style=flat-square&labelColor=343b41"/></td>
     </tr>
